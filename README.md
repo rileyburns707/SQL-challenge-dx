@@ -1,6 +1,6 @@
 # sql_challenge
 
-One of the regular types of problems we solve at DX is writing SQL to generate charts or tables to visualize the data.
+One of the regular types of problems we solve at xxx is writing SQL to generate charts or tables to visualize the data.
 
 ![Team breakdown sentiment scores](image-1.png)
 
